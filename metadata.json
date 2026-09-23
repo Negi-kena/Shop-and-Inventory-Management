@@ -1,0 +1,6 @@
+{
+  "name": "Addis Retail - Solar & Electronics POS",
+  "description": "Mobile-first retail, inventory, and supplier obligation management system for Ethiopian electronics and solar merchants with English, Amharic, and Afaan Oromoo support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
